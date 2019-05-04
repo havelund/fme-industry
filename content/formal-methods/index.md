@@ -26,7 +26,9 @@ for performing proofs. Proofs normally require manual effort,
 including providing loop invariants.
 ```
 
+- [B](https://www.methode-b.com/en/accueil)
 - [Coq](https://coq.inria.fr)
+- [Event-B](http://www.event-b.org)
 - [HOL](https://hol-theorem-prover.org)
 - [Isabelle](https://isabelle.in.tum.de)
 - [Lean](https://leanprover.github.io)
@@ -41,6 +43,7 @@ but where verification is fully automated. Focus is typically on
 specification and verification of concurrent systems.
 ```
 
+- [CADP](http://cadp.inria.fr)
 - [FDR4](https://www.cs.ox.ac.uk/projects/fdr)
 - [NuSMV](http://nusmv.fbk.eu)
 - [SMV](https://www.cs.cmu.edu/~modelcheck/smv.html)
@@ -121,6 +124,21 @@ can represent testing strategies and/or test environment.
 
 - [GraphWalker](http://graphwalker.github.io)
 
+## Modeling
+
+```
+Modeling is the activity of formalizing a problem before it is 
+solved, and/or it is the acticity modeling the solution at a high
+level of abstraction. As such this activity is common for all of the
+approaches mentioned on this page. However, this particular category
+is meant for approaches where the main focus is on modeling rather
+than on formal verification.
+```
+
+- [ArgoUML](http://argouml.tigris.org)
+- [VDM (Overture)](http://overturetool.org)
+- [Z (CZT)](http://czt.sourceforge.net)
+
 ## Verificable Programming Languages
 
 ```
@@ -135,7 +153,11 @@ of lemmas (e.g. loop invariants).
 - [Dafny](https://www.microsoft.com/en-us/research/project/dafny-a-language-and-program-verifier-for-functional-correctness)
 - [Eiffel](https://www.eiffel.org)
 - [Idris](https://www.idris-lang.org)
-- [Spec#](https://www.microsoft.com/en-us/research/project/spec/)
-- [VCC](https://www.microsoft.com/en-us/research/project/vcc-a-verifier-for-concurrent-c/)
+- [JML](http://www.eecs.ucf.edu/~leavens/JML//index.shtml) (Java)
+- [KeY](https://www.key-project.org) (Java)
+- [Spec#](https://www.microsoft.com/en-us/research/project/spec/) (C#)
+- [Spark Ada](https://www.adacore.com/sparkpro) ($)
+- [VeriFast](https://github.com/verifast/verifast) ( C )
+- [VCC](https://www.microsoft.com/en-us/research/project/vcc-a-verifier-for-concurrent-c/) ( C )
 - [Whiley](http://whiley.org)
-- [Why3](http://why3.lri.fr)
+- [Why3](http://why3.lri.fr) (Ocaml)
