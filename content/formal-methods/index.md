@@ -48,15 +48,30 @@ specification and verification of concurrent systems.
 - [UPPAAL](http://www.uppaal.org)
 - [UPPAAL Commercial](http://www.uppaal.com) ($)
 
+## SAT Solvers
+
+```
+SAT stands for Boolean SATisfiability (also called propositional
+satisfiability) and is the problem of determining if there exists
+an interpretation that satisfies a given Boolean formula.
+In other words, it asks whether the variables of a given Boolean
+formula can be consistently replaced by the values TRUE or FALSE
+in such a way that the formula evaluates to TRUE. SAT is fully
+automated.
+```
+
+- [Alloy](http://alloytools.org)
+
 ## SMT Solvers
 
 ```
-SMT (Satisfiability Modulo Theories) is a form of the constraint 
-satisfaction problem, and stands for extensions of first-order logic
-with additional theories, such as e.g. real numbers, integers, 
-and the theories of various data structures such as lists, arrays, 
-bit vectors and so on. Decision procedures decide satisfiablity of 
-formulas in these extended logics. SMT is fully automated.
+SMT (Satisfiability Modulo Theories) is a generalization of the
+SAT problem, and is a form of the constraint satisfaction problem,
+which extends first-order logic with additional theories,
+such as e.g. real numbers, integers, and theories of various
+data structures such as lists, arrays, bit vectors and so on.
+Decision procedures decide satisfiablity of formulas in these
+extended logics. SMT is fully automated.
 ```
 
 - [CVC4](https://cvc4.github.io)
@@ -95,6 +110,16 @@ properties can be more conveniently captured as formal specifications.
 - [JavaMOP](http://fsl.cs.illinois.edu/index.php/JavaMOP4)
 - [QEA](https://github.com/selig/qea)
 - [RVMonitor](https://www.runtimeverification.com/monitor/) ($)
+
+## Model-based Testing
+
+```
+Model-based testing uses a formal model to test a System Under Test
+(SUT). The model can represent the desired behavior of the SUT, or
+can represent testing strategies and/or test environment. 
+```
+
+- [GraphWalker](http://graphwalker.github.io)
 
 ## Verificable Programming Languages
 
