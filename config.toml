@@ -48,8 +48,8 @@ disqusShortname = "yourdiscussshortname"
     name = "Useful Links"
     url = "/links/"
     weight = 6
-  [[menu.nav]]
-    name = "Tags"
-    url = "/tags/"
-    weight = 7
+#  [[menu.nav]]
+#    name = "Tags"
+#    url = "/tags/"
+#    weight = 7
 
