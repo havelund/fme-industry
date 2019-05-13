@@ -32,6 +32,7 @@ including providing loop invariants.
 - [HOL](https://hol-theorem-prover.org)
 - [Isabelle](https://isabelle.in.tum.de)
 - [Lean](https://leanprover.github.io)
+- [Prover](https://www.prover.com) ($)
 - [PVS](http://pvs.csl.sri.com)
 
 ## Model Checkers
@@ -109,8 +110,10 @@ by all systems and may be best implemented algorithmically. Other
 properties can be more conveniently captured as formal specifications. 
 ```
 
+- [BeepBeep3](https://liflab.github.io/beepbeep-3)
 - [DejaVu](https://github.com/havelund/dejavu)
 - [JavaMOP](http://fsl.cs.illinois.edu/index.php/JavaMOP4)
+- [LOLA](https://www.react.uni-saarland.de/tools/lola)
 - [QEA](https://github.com/selig/qea)
 - [RVMonitor](https://www.runtimeverification.com/monitor/) ($)
 
@@ -123,6 +126,8 @@ can represent testing strategies and/or test environment.
 ```
 
 - [GraphWalker](http://graphwalker.github.io)
+- [Reactis](https://www.reactive-systems.com) ($)
+- [verum](https://www.verum.com) ($)
 
 ## Modeling
 
@@ -139,7 +144,8 @@ than on formal verification.
 - [VDM (Overture)](http://overturetool.org)
 - [Z (CZT)](http://czt.sourceforge.net)
 
-## Verificable Programming Languages
+
+## Verifiable Programming Languages
 
 ```
 A verifiable programming language is a programming language supporting
@@ -150,11 +156,16 @@ of lemmas (e.g. loop invariants).
 ```
 
 - [Agda](https://wiki.portal.chalmers.se/agda/pmwiki.php)
+- [Bandera](http://bandera.projects.cs.ksu.edu) (Java)
 - [Dafny](https://www.microsoft.com/en-us/research/project/dafny-a-language-and-program-verifier-for-functional-correctness)
 - [Eiffel](https://www.eiffel.org)
+- [Frama-C](https://frama-c.com) (C)
 - [Idris](https://www.idris-lang.org)
+- [Java PathFinder](http://javapathfinder.sourceforge.net) (Java)
 - [JML](http://www.eecs.ucf.edu/~leavens/JML//index.shtml) (Java)
 - [KeY](https://www.key-project.org) (Java)
+- [mbeddr](http://mbeddr.com) (C)
+- [P](https://github.com/p-org/P)
 - [Spec#](https://www.microsoft.com/en-us/research/project/spec/) (C#)
 - [Spark Ada](https://www.adacore.com/sparkpro) ($)
 - [VeriFast](https://github.com/verifast/verifast) ( C )

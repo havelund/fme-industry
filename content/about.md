@@ -22,7 +22,7 @@ The FME Industry committee consists of the following individuals, whom provide i
 * [Colin O’Halloran](https://www.linkedin.com/in/colin-o-halloran-9887975/?originalSubdomain=uk), D-RisQ Ltd., UK
 * [Jan Peleska](http://www.informatik.uni-bremen.de/agbs/jp/), Bremen University, Germany
 * [Shaz Qadeer](https://www.linkedin.com/in/shaz-qadeer-88b3332/), Facebook, USA
-* [Markus Voelter](http://voelter.de), Volter Consulting, Germany
+* [Markus Völter](http://voelter.de),  Völter Ingenieurbüro, Germany
 
 Chair of the committtee is Klaus Havelund.
 
