@@ -4,16 +4,19 @@ title: Formal Methods
 
 __Under construction__
 
+Submit your formal method [here](https://forms.gle/Lmy6ZPPxYgjj7gXMA) in case it is not on the list. You may also submit comments to the website.
+
 Tools within each group are sorted alphabetically. A $-sign indicates that there is a commercial company behind
 and that acquisition of the tool is fee-based for industrial use.
 
 ## Of General Interest
 
 ```
-Websites/surveys offering numerous categories of formal methods 
-oriented tools.
+Websites offering surveys and categories of formal methods oriented tools.
 ```
 
+- [Choosing a Formal Method](http://www.fmeurope.org/choosingaformalmethod)
+- [Formal Methods Wiki](https://formalmethods.wikia.org/wiki/Formal_methods)
 - [rise4fun.com](https://rise4fun.com)
 
 ## Theorem Provers
@@ -26,6 +29,8 @@ for performing proofs. Proofs normally require manual effort,
 including providing loop invariants.
 ```
 
+- [ACL2](http://www.cs.utexas.edu/users/moore/acl2)
+- [Atelier B](https://www.atelierb.eu/en)
 - [B](https://www.methode-b.com/en/accueil)
 - [Coq](https://coq.inria.fr)
 - [Event-B](http://www.event-b.org)
@@ -45,6 +50,7 @@ specification and verification of concurrent systems.
 ```
 
 - [CADP](http://cadp.inria.fr)
+- [FASTEN](https://sites.google.com/site/fastenroot/home)
 - [FDR4](https://www.cs.ox.ac.uk/projects/fdr)
 - [NuSMV](http://nusmv.fbk.eu)
 - [SMV](https://www.cs.cmu.edu/~modelcheck/smv.html)
@@ -82,7 +88,7 @@ extended logics. SMT is fully automated.
 - [Yices](http://yices.csl.sri.com)
 - [Z3](https://github.com/Z3Prover)
 
-## Static Program Analysis
+## Static Analysis
 
 ```
 Static program analysis is the analysis of computer software 
@@ -93,21 +99,22 @@ on detecting bad programming practices, and does so fully
 automatically and scalable.
 ```
 
+- [AbsInt](https://www.absint.com) ($)
 - [CodeSonar](https://www.grammatech.com/products/codesonar) ($)
 - [Coverity](https://scan.coverity.com) ($)
 - [FindBugs](http://findbugs.sourceforge.net)
 - [KlocWork](https://www.roguewave.com/company) ($)
 - [Semmle](https://semmle.com) ($)
 
-## Runtime Verification
+## Dynamic Analysis 
 
 ```
-Runtime verification is based on extracting information from a 
-running system and using it to detect and possibly react to violation 
-of certain properties. Some very particular properties, such as 
-datarace and deadlock freedom, are typically desired to be satisfied 
-by all systems and may be best implemented algorithmically. Other 
-properties can be more conveniently captured as formal specifications. 
+Dynamic analysis  is based on extracting information from a 
+running system and using it to detect and possibly react to 
+violation of certain properties. Some very particular properties, 
+such as datarace and deadlock freedom, are typically desired to be 
+satisfied by all systems and may be best implemented algorithmically. 
+Other properties can be more conveniently captured as formal specifications. 
 ```
 
 - [BeepBeep3](https://liflab.github.io/beepbeep-3)
@@ -140,6 +147,7 @@ is meant for approaches where the main focus is on modeling rather
 than on formal verification.
 ```
 
+- [ASM](http://web.eecs.umich.edu/gasm) [wikia](https://formalmethods.wikia.org/wiki/Abstract_State_Machines)
 - [ArgoUML](http://argouml.tigris.org)
 - [VDM (Overture)](http://overturetool.org)
 - [Z (CZT)](http://czt.sourceforge.net)
