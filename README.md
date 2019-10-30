@@ -2,25 +2,29 @@
 
 ## The directory
 
-The directory for the website is entered:
+The directory for the website:
 
 ```
-cd /Users/khavelun/Desktop/www/hugo/fme-industry
+/Users/khavelun/Desktop/www/hugo/fme-industry
 ```
 
-To launch a trial website do a:
+## Launching a test website
+
+To launch a trial website from within this directory:
 
 ```
 hugo server -D
 ```
 
-Make changes. Then in a different shell, do a:
+## Push changes to website
+
+Do:
 
 ```
 hugo
 ```
 
-This creates the actual website in `public`. Then do a:
+This creates the actual website in `public`. Then do:
 
 ```
 cd public
@@ -40,6 +44,8 @@ This creates the website on:
 ```
 fme-industry/fme-industry.github.io
 ```
+
+## Push sources
 
 To push the source files themselves to
 
