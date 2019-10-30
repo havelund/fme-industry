@@ -12,7 +12,7 @@ to establish an FME Industry committee in support for infusion of formal methods
 The FME Industry committee consists of the following individuals, whom provide input to what is contained on this website:
 
 * [Nikolaj Bjorner](https://www.microsoft.com/en-us/research/people/nbjorner/), Microsoft Research, USA
-* [Jonathan Bowen](https://en.wikipedia.org/wiki/Jonathan_Bowen), London South Bank University (Emeritus Prof.), UK
+* [Jonathan Bowen](https://en.wikipedia.org/wiki/Jonathan_Bowen), London South Bank University, UK
 * [Alessandro Cimatti](https://es-static.fbk.eu/people/cimatti/), FBK Trento, Italy
 * [Rance Cleaveland](https://www.cs.umd.edu/~rance/), Maryland University, USA
 * [Jan Friso Groote](https://www.tue.nl/en/research/researchers/jan-friso-groote), Eindhoven University, The Netherlands
@@ -23,8 +23,7 @@ The FME Industry committee consists of the following individuals, whom provide i
 * [Colin O’Halloran](https://www.linkedin.com/in/colin-o-halloran-9887975/?originalSubdomain=uk), D-RisQ Ltd., UK
 * [Jan Peleska](http://www.informatik.uni-bremen.de/agbs/jp/), Bremen University, Germany
 * [Shaz Qadeer](https://www.linkedin.com/in/shaz-qadeer-88b3332/), Facebook, USA
+* [Cristina Seceleanu](http://www.es.mdh.se/staff/173-Cristina_Seceleanu), Malardalen University, Sweden
 * [Markus Völter](http://voelter.de),  Völter Ingenieurbüro, Germany
 
 Chair of the committtee is Klaus Havelund.
-
-

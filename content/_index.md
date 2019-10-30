@@ -15,8 +15,6 @@ The website is intended to support industry in the use of formal methods, and wi
 * useful links, including links to teachning material
 {{% /ticks %}}
 
-PS: This website is under construction!
-
 ## Definition of the term 'Formal Method'
 
 It can be difficult to precisely define what is a formal method. A popular formulation is that it is a technique for developing correct software which is based on mathematical rigorius principles. The Wikipedia offers a more elaborate [definition](https://en.wikipedia.org/wiki/Formal_methods).

@@ -2,12 +2,12 @@
 title: Formal Methods
 ---
 
-__Under construction__
-
 Submit your formal method [here](https://forms.gle/Lmy6ZPPxYgjj7gXMA) in case it is not on the list. You may also submit comments to the website.
 
 Tools within each group are sorted alphabetically. A $-sign indicates that there is a commercial company behind
-and that acquisition of the tool is fee-based for industrial use.
+and that acquisition of the tool is fee-based for industrial use. 
+
+PS: Note that the grouping of these tools is not ideal in several cases. A label system would be preferable.
 
 ## Of General Interest
 
@@ -36,9 +36,26 @@ including providing loop invariants.
 - [Event-B](http://www.event-b.org)
 - [HOL](https://hol-theorem-prover.org)
 - [Isabelle](https://isabelle.in.tum.de)
+- [KeYmaera X](http://symbolaris.com/info/KeYmaera.html#X)
 - [Lean](https://leanprover.github.io)
 - [Prover](https://www.prover.com) ($)
 - [PVS](http://pvs.csl.sri.com)
+- [Vampire](https://vprover.github.io)
+
+## Rewrite Systems
+
+```
+Rewrite systems are based on so-called algebraic specification languages, 
+where data types are specified by naming types (but not their contents), 
+operations on those types, and equations between terms of operation applications. 
+E.g. instead of specifying a stack as a list of elements, one specifies that 
+pushing an element to a stack and then popping an element leaves us with the 
+original stack. Rewrite systems perform rewriting of such terms. One may perceive 
+rewrite systems as a sub-class of theorem provers.
+```
+
+- [CASL](http://www.informatik.uni-bremen.de/cofi/index.php/CASL)
+- [Maude](http://maude.cs.illinois.edu)
 
 ## Model Checkers
 
@@ -50,8 +67,11 @@ specification and verification of concurrent systems.
 ```
 
 - [CADP](http://cadp.inria.fr)
+- [CPN](http://cpntools.org)
 - [FASTEN](https://sites.google.com/site/fastenroot/home)
 - [FDR4](https://www.cs.ox.ac.uk/projects/fdr)
+- [mCRL2](https://www.mcrl2.org)
+- [Murphi](http://formalverification.cs.utah.edu/Murphi)
 - [NuSMV](http://nusmv.fbk.eu)
 - [SMV](https://www.cs.cmu.edu/~modelcheck/smv.html)
 - [Spin](http://spinroot.com/spin/whatispin.html)
@@ -105,6 +125,7 @@ automatically and scalable.
 - [FindBugs](http://findbugs.sourceforge.net)
 - [KlocWork](https://www.roguewave.com/company) ($)
 - [Semmle](https://semmle.com) ($)
+- [Valgrind](http://valgrind.org)
 
 ## Dynamic Analysis 
 
@@ -149,6 +170,10 @@ than on formal verification.
 
 - [ASM](http://web.eecs.umich.edu/gasm) [wikia](https://formalmethods.wikia.org/wiki/Abstract_State_Machines)
 - [ArgoUML](http://argouml.tigris.org)
+- [dL](http://symbolaris.com/logic/dL.html)
+- [Focus](http://focus.in.tum.de)
+- [RAISE](http://spd-web.terma.com/Projects/RAISE)
+- [SDL](http://sdl-forum.org)
 - [VDM (Overture)](http://overturetool.org)
 - [Z (CZT)](http://czt.sourceforge.net)
 
@@ -166,13 +191,14 @@ of lemmas (e.g. loop invariants).
 - [Agda](https://wiki.portal.chalmers.se/agda/pmwiki.php)
 - [Bandera](http://bandera.projects.cs.ksu.edu) (Java)
 - [Dafny](https://www.microsoft.com/en-us/research/project/dafny-a-language-and-program-verifier-for-functional-correctness)
+- [Escher C Verifier](http://www.eschertech.com/index.php) ( C ) ($)
 - [Eiffel](https://www.eiffel.org)
-- [Frama-C](https://frama-c.com) (C)
+- [Frama-C](https://frama-c.com) ( C )
 - [Idris](https://www.idris-lang.org)
 - [Java PathFinder](http://javapathfinder.sourceforge.net) (Java)
 - [JML](http://www.eecs.ucf.edu/~leavens/JML//index.shtml) (Java)
 - [KeY](https://www.key-project.org) (Java)
-- [mbeddr](http://mbeddr.com) (C)
+- [mbeddr](http://mbeddr.com) ( C )
 - [P](https://github.com/p-org/P)
 - [Spec#](https://www.microsoft.com/en-us/research/project/spec/) (C#)
 - [Spark Ada](https://www.adacore.com/sparkpro) ($)
