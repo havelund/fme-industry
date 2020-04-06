@@ -2,7 +2,7 @@
 title: Formal Methods
 ---
 
-Submit your formal method [here](https://forms.gle/Lmy6ZPPxYgjj7gXMA) in case it is not on the list. You may also submit comments to the website.
+Submit your formal method [here](https://forms.gle/Lmy6ZPPxYgjj7gXMA) in case it is not on the list. You may also submit comments to the website. Or: simply send an email to Klaus Havelund <havelund@gmail.com>.
 
 Tools within each group are sorted alphabetically. A $-sign indicates that there is a commercial company behind
 and that acquisition of the tool is fee-based for industrial use. 
@@ -125,7 +125,6 @@ automatically and scalable.
 - [FindBugs](http://findbugs.sourceforge.net)
 - [KlocWork](https://www.roguewave.com/company) ($)
 - [Semmle](https://semmle.com) ($)
-- [Valgrind](http://valgrind.org)
 
 ## Dynamic Analysis 
 
@@ -144,6 +143,7 @@ Other properties can be more conveniently captured as formal specifications.
 - [LOLA](https://www.react.uni-saarland.de/tools/lola)
 - [QEA](https://github.com/selig/qea)
 - [RVMonitor](https://www.runtimeverification.com/monitor/) ($)
+- [Valgrind](http://valgrind.org)
 
 ## Model-based Testing
 
