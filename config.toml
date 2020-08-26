@@ -40,10 +40,10 @@ disqusShortname = "yourdiscussshortname"
 #    name = "Industry Users"
 #    url = "/industry-users/"
 #    weight = 4
-#  [[menu.nav]]
-#    name = "Use Cases"
-#    url = "/use-cases/"
-#    weight = 5
+  [[menu.nav]]
+    name = "Use Cases"
+    url = "/use-cases/"
+    weight = 5
   [[menu.nav]]
     name = "Useful Links"
     url = "/links/"
