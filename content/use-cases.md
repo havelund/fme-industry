@@ -3,6 +3,6 @@ date: "2020-09-06"
 title: "Use Cases"
 ---
 
-This page is now under construction. See what is coming.
+This page is now under construction. Will contain use cases of formal methods.
 
 
