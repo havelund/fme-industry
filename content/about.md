@@ -9,7 +9,7 @@ This website has been created as part of a directive from the FME (Formal Method
 
 to establish an FME Industry committee in support for infusion of formal methods into industry.
 
-The FME Industry committee consists of the following individuals, whom provide input to what is contained on this website:
+The FME Industry committee consists of the following individuals:
 
 * [Nikolaj Bjorner](https://www.microsoft.com/en-us/research/people/nbjorner/), Microsoft Research, USA
 * [Jonathan Bowen](https://en.wikipedia.org/wiki/Jonathan_Bowen), London South Bank University, UK
