@@ -8,9 +8,9 @@ The generated sources for the above website are located at
 
 ## Instructions
 
-### Create folders
+### Clone repositories
 
-Create a folder `fme_industry_website`, and perform all the following instructions in that folder.
+Create a folder `fme_industry_website` somewhere, and perform all the following instructions in that folder.
 
 First clone a local copy of this repository:
 
@@ -28,6 +28,21 @@ Then clone a local copy of the repository containing the actual website:
 
 This will create a folder `fme-industry.github.io`,
 we shall refer to it as `WWW`.
+
+### Update deployment script
+
+The script `deploy.sh` contains two lines at the top which need to be
+modified to point to the two folders just cloned above:
+
+```
+#!/bin/bash
+
+echo building website
+
+SRC=path/to/fme-industry
+WWW=path/to/fme-industry.github.io
+...
+```
 
 ### Initialize
 

@@ -2,7 +2,7 @@
 
 echo building website
 
-SRC=/Users/khavelun/Desktop/www/fme-industry/fme-industry-sources
+SRC=/Users/khavelun/Desktop/www/fme-industry/fme-industry
 WWW=/Users/khavelun/Desktop/www/fme-industry/fme-industry.github.io
 
 # If a command fails then the deploy stops
