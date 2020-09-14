@@ -47,5 +47,5 @@ subtitle = ""
  css_class = ""
 +++
 
-- Formal Methods Europe (FME) [http://www.fmeurope.org](http://www.fmeurope.org)
-- FME's Teaching Committee Page [http://www.fmeurope.org/teaching](http://www.fmeurope.org/teaching)  
+- Formal Methods Europe (FME) page [http://www.fmeurope.org](http://www.fmeurope.org)
+- FME's Teaching Committee page [http://www.fmeurope.org/teaching](http://www.fmeurope.org/teaching)  
