@@ -47,7 +47,7 @@ subtitle = ""
  css_class = ""
 +++
 
-This is a list of companies offering formal methods tools and/or consulting.
+This is a list of companies offering formal methods tools and/or consulting services.
 
 - [AbsInt](https://www.absint.com)
   * Tool: abstract interpretation (static analysis)
