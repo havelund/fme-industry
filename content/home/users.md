@@ -49,4 +49,28 @@ subtitle = ""
 
 This is a list of companies that use formal methods.
 
-
+Company       | Tool
+------------- | -------------
+Airbus        | Astree static analyzer
+Airbus        | Compcert verified compiler
+Altran        | SPARK Ada toolset
+Amazon Web Services | TLA+
+Atkins        | MALPAS Software Static Analysis Toolset
+BAES          | SPARK Ada toolset
+ClearSy       | Atelier B (for railway control)
+Callen Lenz   | Kapture
+Callen Lenz   | ModelWorks
+D-RisQ        | FDR4
+D-RisQ        | Z3
+D-RisQ        | ProofPower
+D-RisQ        | HOL4 within Kapture for high level software requirements
+D-RisQ        | ModelWorks for verification of Simulink/Stateflow designs against high level software requirements
+D-RisQ        | CLawZ for verification of C code automatically generated from Simulink/Stateflow Used on various Robotics and Autonomous Systems
+Galois        | Software Analysis Workbench (used to verify Amazon Web Services s2n encryption library)
+Honeywell     | PVS
+Honeywell     | Kapture
+Honeywell     | Variety of SMT solvers
+Facebook      | Infer static analyser
+Microsoft     | SLAM
+Rolls Royce Aeroengines | SCADE
+Rolls Royce Aeroengines | SPARK Ada toolset
