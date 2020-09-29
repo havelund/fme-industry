@@ -51,5 +51,5 @@ This is a list of various papers related to formal methods.
 
 Title         | Authors      | Year | pdf
 ------------- | -------------| ---  | ---
-_Formal Methods: Oversold? Underused? A Survey_ | Mario Gleirscher and Diego Marmsoler | 2018 | [pdf](https://github.com/havelund/fme-industry/papers/fm-oversold-arc-2018.pdf)
-_Formal methods in dependable systems engineering: a survey of professionals from Europe and North America_ | Mario Gleirscher abd Diego Marmsoler | 2020 | [pdf](https://github.com/havelund/fme-industry/papers/fm-survey-ese-2020.pdf)
+_Formal Methods: Oversold? Underused? A Survey_ | Mario Gleirscher and Diego Marmsoler | 2018 | [pdf](https://github.com/havelund/fme-industry/blob/master/papers/fm-oversold-arc-2018.pdf)
+_Formal methods in dependable systems engineering: a survey of professionals from Europe and North America_ | Mario Gleirscher abd Diego Marmsoler | 2020 | [pdf](https://github.com/havelund/fme-industry/blob/master/papers/fm-survey-ese-2020.pdf)
