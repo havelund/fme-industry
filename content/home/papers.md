@@ -51,5 +51,7 @@ This is a list of various papers related to formal methods.
 
 Title         | Authors      | Year | pdf
 ------------- | -------------| ---  | ---
-_Formal Methods: Oversold? Underused? A Survey_ | Mario Gleirscher and Diego Marmsoler | 2018 | [pdf](https://github.com/havelund/fme-industry/blob/master/papers/fm-oversold-arc-2018.pdf)
-_Formal methods in dependable systems engineering: a survey of professionals from Europe and North America_ | Mario Gleirscher abd Diego Marmsoler | 2020 | [pdf](https://github.com/havelund/fme-industry/blob/master/papers/fm-survey-ese-2020.pdf)
+_Formal Methods: Oversold? Underused? A Survey_<br>[https://arxiv.org/abs/1812.08815](https://arxiv.org/abs/1812.08815) | Mario Gleirscher and Diego Marmsoler | 2018 | [pdf](https://github.com/havelund/fme-industry/blob/master/papers/fm-oversold-arc-2018.pdf)
+_Formal Methods in Dependable Systems Engineering: a Survey of Professionals from Europe and North America_<br>Empirical Software Engineering<br>[https://link.springer.com/article/10.1007/s10664-020-09836-5](https://link.springer.com/article/10.1007/s10664-020-09836-5) | Mario Gleirscher abd Diego Marmsoler | 2020 | [pdf](https://github.com/havelund/fme-industry/blob/master/papers/fm-survey-ese-2020.pdf)
+_The 2020 Expert Survey on Formal Methods_<br> FMICS 2020, LNCS 12327, pp. 3–69<br>[https://doi.org/10.1007/978-3-030-58298-2_1](https://doi.org/10.1007/978-3-030-58298-2_1) | Hubert Garavel, Maurice H. ter Beek, and Jaco van de Pol | 2020 | [pdf](https://github.com/havelund/fme-industry/blob/master/papers/expert-survey-fmics-2020.pdf)
+
