@@ -1,5 +1,7 @@
 # FM Industry Committee Website (sources)
 
+Welcome to the repository [https://github.com/havelund/fme-industry](https://github.com/havelund/fme-industry)
+
 This repository contains the sources for the website:
 [https://fme-industry.github.io/](https://fme-industry.github.io)
 
