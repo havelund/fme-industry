@@ -49,6 +49,4 @@ subtitle = ""
 
 Previous members:
 
- - (2017 -- 2019) [Bernd Fisher](http://www.cs.sun.ac.za/~bfischer), Stellenbosch University, South Africa
- - (2017 -- 2018) [Dino
-   Mandrioli](http://home.deib.polimi.it/mandriol/SitoItaliano/sitowebpersit.html), Politecnico di Milano, Italy
+None

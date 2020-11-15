@@ -1,14 +1,14 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "First Meeting"
-subtitle: "Agenda and Minutes"
+title: "Call for collaborations"
+subtitle: "Let academia help"
 summary: ""
 authors: []
 tags: []
-categories: [Meetings]
-date: 2018-02-23
-lastmod: 2018-02-23
+categories: [Posts]
+date: 2020-11-14
+lastmod: 2020-11-14
 featured: false
 draft: false
 
@@ -28,8 +28,9 @@ image:
 #projects: []
 ---
 
-## February 23-24, 2018, FME Teaching Committee, first meeting: Agenda and references
 
-### Agenda
+### Collaboration
 
-Bla bla
+Industry is encouraged to announce oportunities for academic researchers to study industrial problems.
+
+Please contact <industry@fmeurope.org>, and we will announce it on this website.

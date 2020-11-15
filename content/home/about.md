@@ -15,20 +15,20 @@ title = "Formal Methods & Industry"
 [[feature]]
   icon = "handshake"
   icon_pack = "fas"
-  name = "Events & Meetings"
-  description = "Relevant [events](#events) and [meetings](#meetings)."
+  name = "Events"
+  description = "[Events](#events) related to formal methods."
   
 [[feature]]
   icon = "industry"
   icon_pack = "fas"
   name = "Companies"
-  description = "A collection of [companies](companies/) that adopted FM."
+  description = "[Companies](#producers) offering formal methods."
 
 [[feature]]
   icon = "flag"
   icon_pack = "fas"
-  name = "Case Studies"
-  description = "A collection of industrial [case studies](casestudies/)."
+  name = "Users"
+  description = "[Companies](#users) using formal methods."
 
 
 # Choose the user profile to display
