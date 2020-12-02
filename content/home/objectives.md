@@ -49,11 +49,11 @@ subtitle = ""
 
 The objectives of the FME industrial committee and this website are as follows.
 
-1. Increase the use of formal methods in industry.
+1. Increase use of formal methods in industry.
 
-2. Increase the awareness in industry of formal methods. This includes  informing the industry about which formal methods are available, which companies use formal methods, which companies offer formal methods and consultancy, industrial success stories of formal methods, and other relevant material such as links to papers concerned with the above aspects. It also includes announcement of industrially oriented events.
+2. Increase awareness in industry of formal methods. This includes  informing the industry about which formal methods are available, which companies use formal methods, which companies offer formal methods and consultancy, industrial success stories of formal methods, and other relevant material such as links to papers concerned with the above aspects. It also includes announcement of industrially oriented events.
 
-3. Increase the awareness in the formal methods community of industrial use of formal methods. This forms a feedback on what works and what does not work in practice, and can help steer the formal methods community towards successful approaches.
+3. Increase awareness in the formal methods community of industrial use of formal methods. This forms a feedback on what works and what does not work in practice, and can help steer the formal methods community towards successful approaches.
 
 4. Increase collaboration between the formal methods community and industry.
 
