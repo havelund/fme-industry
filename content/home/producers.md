@@ -49,11 +49,15 @@ subtitle = ""
 
 This is a list of companies offering formal methods tools and/or consulting services.
 
-- [AbsInt](https://www.absint.com)
+- [AbsInt](https://www.absint.com), France.
   * Tool: abstract interpretation (static analysis)
 
 - [Clearsy](https://www.clearsy.com), France.
   * Domain: railways
+
+- [D-RisQ](www.drisq.com), UK.
+  * The Kapture and ModelWorks frameworks use various formal methods. 
+  * The company has deep expertise in CSP and its model checker FDR4.
 
 - [Verified Systems International GmbH](www.verified.de), Bremen, Germany
   * Services: consulting, formal verification by model checking, abstract interpretation, or theorem proving, and conventional techniques are offered like review, code inspection, testing.

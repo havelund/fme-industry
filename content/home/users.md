@@ -63,7 +63,7 @@ Callen Lenz   | ModelWorks
 D-RisQ        | FDR4
 D-RisQ        | Z3
 D-RisQ        | ProofPower
-D-RisQ        | HOL4 within Kapture for high level software requirements
+D-RisQ        | Temporal logic predicates used to check consistency within Kapture for software requirements
 D-RisQ        | ModelWorks for verification of Simulink/Stateflow designs against high level software requirements
 D-RisQ        | CLawZ for verification of C code automatically generated from Simulink/Stateflow Used on various Robotics and Autonomous Systems
 Galois        | Software Analysis Workbench (used to verify Amazon Web Services s2n encryption library)
