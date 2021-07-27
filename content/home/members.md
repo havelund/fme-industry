@@ -59,6 +59,7 @@ The committee consists of the following members:
 * [Connie Heitmeyer](https://www.linkedin.com/in/connie-heitmeyer-5b526b), Naval Research Laboratory, USA
 * [Gerwin Klein](http://www.cse.unsw.edu.au/~kleing/), University of NewSouth Wales, Australia
 * [Thierry Lecompte](https://www.researchgate.net/profile/Thierry_Lecomte), ClearSy, France
+* [Cesar Munoz](https://shemesh.larc.nasa.gov/people/cam), AWS, USA
 * [Colin O’Halloran](https://www.linkedin.com/in/colin-o-halloran-9887975/?originalSubdomain=uk), D-RisQ Ltd., UK
 * [Jan Peleska](http://www.informatik.uni-bremen.de/agbs/jp/), Bremen University, Germany
 * [Shaz Qadeer](https://www.linkedin.com/in/shaz-qadeer-88b3332/), Facebook, USA
