@@ -30,7 +30,7 @@ height = ""
   #   Activate the button by specifying a URL and button label below.
   #   Deactivate by commenting out parameters, prefixing lines with `#`.
   cta_label = "Learn more"
-  cta_url = "http://formalmethods2021.csp.escience.cn"
+  cta_url = "http://lcs.ios.ac.cn/fm2021/"
   cta_icon_pack = "fas"
   cta_icon = "arrow-circle-right"
 
