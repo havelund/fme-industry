@@ -53,23 +53,4 @@ height = ""
   cta_icon_pack = "fas"
   cta_icon = "arrow-circle-right"
 
-[[item]]
-  title = "FormaliSE 2021"
-  content = "International Conference on Formal Methods in Software Engineering, May 23-24, 2021, Madrid, Spain"
-  align = "center"  # Choose `center`, `left`, or `right`.
-
-  # Overlay a color or image (optional).
-  #   Deactivate an option by commenting out the line, prefixing it with `#`.
-  overlay_color = "#666"  # An HTML color value.
-  overlay_img = "headers/madrid.jpg"  # Image path relative to your `static/img/` folder.
-  overlay_filter = 0.5  # Darken the image. Value in range 0-1.
-
-  # Call to action button (optional).
-  #   Activate the button by specifying a URL and button label below.
-  #   Deactivate by commenting out parameters, prefixing lines with `#`.
-  cta_label = "Learn more"
-  cta_url = "https://www.formalise.org/"
-  cta_icon_pack = "fas"
-  cta_icon = "arrow-circle-right"
-
 +++
