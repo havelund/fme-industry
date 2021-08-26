@@ -54,7 +54,9 @@ Company       | Tool
 Airbus        | Astree static analyzer
 Airbus        | Compcert verified compiler
 Altran        | SPARK Ada toolset
-Amazon Web Services | TLA+
+AWS           | Dafny
+AWS           | TLA+
+AWS           | Z3
 Atkins        | MALPAS Software Static Analysis Toolset
 BAES          | SPARK Ada toolset
 ClearSy       | Atelier B (for railway control)
@@ -72,5 +74,7 @@ Honeywell     | Kapture
 Honeywell     | Variety of SMT solvers
 Facebook      | Infer static analyser
 Microsoft     | SLAM
+NASA          | PVS
+NASA          | Spin
 Rolls Royce Aeroengines | SCADE
 Rolls Royce Aeroengines | SPARK Ada toolset
