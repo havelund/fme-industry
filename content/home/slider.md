@@ -30,7 +30,7 @@ height = ""
   #   Activate the button by specifying a URL and button label below.
   #   Deactivate by commenting out parameters, prefixing lines with `#`.
   cta_label = "Learn more"
-  cta_url = "https://fm2023.isp.uni-luebeck.de/wordpress/"
+  cta_url = "https://fm2023.isp.uni-luebeck.de/"
   cta_icon_pack = "fas"
   cta_icon = "arrow-circle-right"
 
