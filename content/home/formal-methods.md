@@ -49,12 +49,12 @@ subtitle = ""
 
 Below is a list of formal methods.
 
-Submit your formal method [here](https://forms.gle/Lmy6ZPPxYgjj7gXMA) in case it is not on the list. You may also submit comments to the website. Or: simply send an email to Klaus Havelund <havelund@gmail.com>.
+Submit your formal method [here](https://forms.gle/Lmy6ZPPxYgjj7gXMA) in case it is not on the list. You may also submit comments to the website. Or: simply send an email to Tim Willemse <t.a.c.willemse@tue.nl>.
 
 Tools within each group are sorted alphabetically. A $-sign indicates that there is a commercial company behind
 and that acquisition of the tool is fee-based for industrial use. 
 
-PS: Note that the grouping of these tools is not ideal in several cases. A label system would be preferable.
+PS: Note that the grouping of these tools is not ideal in several cases. A label system would be preferable and may be implemented in the near future.
 
 ## Of General Interest
 
