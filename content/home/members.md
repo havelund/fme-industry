@@ -49,23 +49,14 @@ subtitle = ""
 
 The committee consists of the following members:
 
-* [Nikolaj Bjorner](https://www.microsoft.com/en-us/research/people/nbjorner/), Microsoft Research, USA
-* [Jonathan Bowen](https://en.wikipedia.org/wiki/Jonathan_Bowen), London South Bank University, UK
-* [Alessandro Cimatti](https://es-static.fbk.eu/people/cimatti/), FBK Trento, Italy
-* [Rance Cleaveland](https://www.cs.umd.edu/~rance/), Maryland University, USA
-* [Jan Friso Groote](https://www.tue.nl/en/research/researchers/jan-friso-groote), Eindhoven University, The Netherlands
-* [John Hatcliff](http://people.cs.ksu.edu/~hatcliff/cms/), Kansas State University, USA
-* [Klaus Havelund](http://www.havelund.com), Jet Propulsion Laboratory/NASA, USA
-* [Connie Heitmeyer](https://www.linkedin.com/in/connie-heitmeyer-5b526b), Naval Research Laboratory, USA
-* [Gerwin Klein](http://www.cse.unsw.edu.au/~kleing/), University of NewSouth Wales, Australia
-* [Thierry Lecompte](https://www.researchgate.net/profile/Thierry_Lecomte), ClearSy, France
-* [Cesar Munoz](https://shemesh.larc.nasa.gov/people/cam), AWS, USA
-* [Colin O’Halloran](https://www.linkedin.com/in/colin-o-halloran-9887975/?originalSubdomain=uk), D-RisQ Ltd., UK
-* [Jan Peleska](http://www.informatik.uni-bremen.de/agbs/jp/), Bremen University, Germany
-* [Shaz Qadeer](https://www.linkedin.com/in/shaz-qadeer-88b3332/), Facebook, USA
+* [Carla Ferreira](http://ctp.di.fct.unl.pt/~cf/), NOVA University of Lisbon, Portugal
+* [Leo Freitas](https://www.ncl.ac.uk/computing/staff/profile/leofreitas.html), Newcastle University, UK
+* [Mario Gleirscher](https://www.gleirscher.at/mg/), University of Bremen, Germany
+* [Cláudio Ângelo Gonçalves Gomes](https://pure.au.dk/portal/en/persons/cludio-angelo-goncalves-gomes(63d3d37d-ef61-40b6-a263-52792c5fd9e0).html), Aarhus University, Denmark
+* [Peter Höfner](https://cecs.anu.edu.au/people/peter-hoefner), The Australian National University (ANU), Australia.
+* [Jeroen Keiren](https://www.win.tue.nl/~jkeiren), Eindhoven University of Technology, The Netherlands (Secretary)
+* [Kristin Yvonne Rozier](https://www.aere.iastate.edu/kyrozier/), Iowa State University, USA
 * [Cristina Seceleanu](http://www.es.mdh.se/staff/173-Cristina_Seceleanu), Malardalen University, Sweden
-* [Markus Völter](http://voelter.de),  Völter Ingenieurbüro, Germany
-
-Chair of the committtee is Klaus Havelund.
+* [Tim Willemse](https://www.win.tue.nl/~timw), Eindhoven University of Technology, The Netherlands (Chair)
 
 [List of previous members](previous-members).
