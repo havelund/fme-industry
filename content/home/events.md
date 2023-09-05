@@ -47,7 +47,9 @@ subtitle = ""
  css_class = ""
 +++
 
-- [Formal Methods 2023](https://fm2023.isp.uni-luebeck.de/wordpress/), Formal Methods conference, March 6-10, 2023, Lubeck, Germany
+- [Formal Methods for Industrial Critical Systems](https://www.uantwerpen.be/en/conferences/confest-2023/fmics/), conference on Formal Methods for Industrial Critical Systems, September 20-22, Antwerp, Belgium
+- [Software Engineering and Formal Methods 2023](https://sefm-conference.github.io/2023/), Software Engineering and Formal Methods conference, November 6-10, 2023, Eindhoven, The Netherlands
+- [InFM series](talk): talks by people working in industry, organised by the Industry Committee
 
 
   

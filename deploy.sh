@@ -2,8 +2,8 @@
 
 echo building website
 
-SRC=/Users/khavelun/Desktop/www/fme-industry-website/fme-industry
-WWW=/Users/khavelun/Desktop/www/fme-industry-website/fme-industry.github.io
+SRC=/Users/timw/Work/www/fme-industry
+WWW=/Users/timw/Work/www/fme-industry.github.io
 
 # If a command fails then the deploy stops
 set -e

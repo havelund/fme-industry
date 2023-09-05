@@ -22,13 +22,13 @@ title = "Formal Methods & Industry"
   icon = "industry"
   icon_pack = "fas"
   name = "Companies"
-  description = "[Companies](#producers) offering formal methods."
+  description = "Companies [offering](#producers) formal methods."
 
 [[feature]]
   icon = "flag"
   icon_pack = "fas"
   name = "Users"
-  description = "[Companies](#users) using formal methods."
+  description = "Companies [using](#users) formal methods."
 
 
 # Choose the user profile to display
