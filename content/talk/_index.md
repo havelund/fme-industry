@@ -57,6 +57,10 @@ Upcoming talk in September:
 
 _Presenter:_ Ivo ter Horst, [ASML](https://asml.com).
 
+_Date:_ 28 September, 15.00-16.00 (CET)
+
+_Platform:_ Zoom (link will be made available through this website on 27 September)
+
 _Title:_ Test less, verify Moore – Formal verification at ASML.  
 
 _Abstract:_ ASML’s lithography machines are complex cyber-physical systems of systems, designed to be extremely accurate, deliver very high throughput and operate 24/7 to deliver exceptionally reliable results. More than 10 years ago, ASML embarked on a formal verification journey to transform its software development practices with the aim of improving software quality and speeding up delivery.
