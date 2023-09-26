@@ -59,7 +59,7 @@ _Presenter:_ Ivo ter Horst, [ASML](https://asml.com).
 
 _Date:_ 28 September, 15.00-16.00 (CET)
 
-_Platform:_ Zoom (link will be made available through this website on 27 September)
+_Platform:_ [Zoom](https://uni-bremen.zoom.us/j/63153646277?pwd=djJra2Z0czhxdEpqTDlxRndkMVpHQT09) (Meeting ID: 631 5364 6277; Passcode: 396752)
 
 _Title:_ Test less, verify Moore – Formal verification at ASML.  
 
