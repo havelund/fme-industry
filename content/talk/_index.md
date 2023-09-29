@@ -53,13 +53,13 @@ The _InFM_ series, organised by the FME Industry Committee, is a series of talks
 The talks are aimed at people working in industry wishing to learn from others applying Formal Methods at industrial scale, but also academics interested in applying and improving their methods.
 
 ---
-Upcoming talk in September:
+Past talks:
 
 _Presenter:_ Ivo ter Horst, [ASML](https://asml.com).
 
 _Date:_ 28 September, 15.00-16.00 (CET)
 
-_Platform:_ [Zoom](https://uni-bremen.zoom.us/j/63153646277?pwd=djJra2Z0czhxdEpqTDlxRndkMVpHQT09) (Meeting ID: 631 5364 6277; Passcode: 396752)
+_Video:_ See the [recording](https://youtu.be/S_2cVLFY8Ik) of the Zoom meeting.
 
 _Title:_ Test less, verify Moore – Formal verification at ASML.  
 
