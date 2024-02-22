@@ -53,11 +53,13 @@ The _InFM_ series, organised by the FME Industry Committee, is a series of talks
 The talks are aimed at people working in industry wishing to learn from others applying Formal Methods at industrial scale, but also academics interested in applying and improving their methods.
 
 ---
+Past talks:
+
 _Presenter:_ [Frank Zeyda](https://www.linkedin.com/in/frank-zeyda/), Galois Inc. (US) and Independent Contractor
 
 _Date:_ 22 February, 16.00-17.00 (CET)
 
-Join the meeting: [Zoom link](https://uni-bremen.zoom.us/j/61225793784?pwd=Z2J2RVJVY2lwUlNLamJ5bXNiUENBZz09)
+_Video:_ See the [recording](https://youtu.be/LIcmDCyRWc0) of the Zoom meeting (the first few minutes are missing; our apologies)
 
 _Title:_ Rigorous Digital Engineering with Formal Methods: a personal perspective
 
@@ -70,7 +72,6 @@ In this presentation, I will reflect on my personal understanding, experience an
 _Short Bio:_ Frank Zeyda obtained his PhD in 2007 from Teesside University (UK) and has subsequently worked for many years in academia, mainly at the University of York (UK) to conduct fundamental research towards novel verification techniques and strategies for control systems, Safety-Critical Java, and FMI cosimulation for cyber-physical systems. As part of this work, he has also extensively contributed to the embedding of semantic theories into theorem provers, with a focus on Tony Hoare's Unifying Theories of Programming (UTP). Since 2018, he has dedicated himself mainly to industrial work to gain experience in applying rigorous and innovative verification and testing strategies to real-world applications in avionics, namely for the Verified Systems Int. GmbH in Germany. As of 2022, he acts as an independent consultant and researcher living in Mexico, currently working closely with Galois, Inc. He specializes in the application of formal methods and their tools towards creating more reliable, trustworthy and secure hardware and software.
 
 ---
-Past talks:
 
 _Presenter:_ Ivo ter Horst, [ASML](https://asml.com).
 
