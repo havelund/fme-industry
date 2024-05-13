@@ -53,6 +53,17 @@ The _InFM_ series, organised by the FME Industry Committee, is a series of talks
 The talks are aimed at people working in industry wishing to learn from others applying Formal Methods at industrial scale, but also academics interested in applying and improving their methods.
 
 ---
+_Presenter:_ Daniel Fredholm, Prover Technology, Sweden
+
+_Date:_ 16 May, 15.00-16.00 (CEST)
+
+_Zoom:_ [link](https://mdu-se.zoom.us/j/66305086216?pwd=UXd4Q2lpQTc1a3pFSEYrWnZhVk1zUT09), Meeting ID: 663 0508 6216, Passcode: 622571
+
+_Title:_ Formal Verification in the Railway Domain
+
+_Bio:_ Daniel got his PhD in mathematics in 1994 (mathematical logic) from Stockholm University, Sweden, and has been employed at Industrilogik (1996-2005), and at Prover Technology since 2005. Daniel has extensive expertise in formal methods, in particular formal verification, applied to rail control systems.
+ 
+---
 Past talks:
 
 _Presenter:_ [Frank Zeyda](https://www.linkedin.com/in/frank-zeyda/), Galois Inc. (US) and Independent Contractor
