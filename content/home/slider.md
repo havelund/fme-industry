@@ -16,8 +16,8 @@ height = ""
 # Slides.
 # Duplicate an `[[item]]` block to add more slides.
 [[item]]
-  title = "Formal Methods 2023"
-  content = "FM'23, March 6-10, 2023, Lubeck, Germany"
+  title = "Formal Methods 2024"
+  content = "FM'24, September 9-13, 2024, Milan, Italy"
   align = "center"  # Choose `center`, `left`, or `right`.
 
   # Overlay a color or image (optional).
@@ -30,7 +30,7 @@ height = ""
   #   Activate the button by specifying a URL and button label below.
   #   Deactivate by commenting out parameters, prefixing lines with `#`.
   cta_label = "Learn more"
-  cta_url = "https://fm2023.isp.uni-luebeck.de/"
+  cta_url = "https://www.fm24.polimi.it/"
   cta_icon_pack = "fas"
   cta_icon = "arrow-circle-right"
 
