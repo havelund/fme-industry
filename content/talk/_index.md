@@ -55,6 +55,27 @@ The talks are aimed at people working in industry wishing to learn from others a
 ---
 Upcoming talk:
 ---
+_Presenter:_ David Delmas, Airbus, Fr
+
+_Date:_ 16 January, 15.00-16.00 (CET)
+
+_Zoom:_ to be announced
+
+_Title:_ Formal Verification of Avionics Software
+
+_Abstract:_ The size and complexity of avionics software have grown exponentially from one aircraft generation to the next in the past 4 decades. Traditional software development processes leveraging informal verification techniques fail to scale within reasonable costs. In particular, verification is liable for a steadily growing share of the overall development costs. The 2015 current status was about 70%.
+To address this issue, Airbus have been transforming internal development processes since 2016. Internal domain-specific languages have been developed to enable the formalization of design artifacts, and automate part of verification activities.
+Automation is enabled by the interoperation of tools relying on sound formal techniques. For instance, Frama-C/WP and SMT-solvers are used to automate unit verification with deductive methods. Most so-called Unit Proofs are automatic, assuming high-level memory and numerical models, as well as some preconditions. Such assumptions are verified by other tools, such as the Astrée static analyzer, which leverages Abstract Interpretation to prove the absence of run-time errors and check assumed non-aliasing properties. We rely on the CompCert formally verified compiler to enable that most formal verification activities may be conducted on source code.
+Beyond safety properties and currently established processes, we also develop internally static analyses by Abstract Interpretation to automate regression verification and portability verification. In particular, our portability analysis is able to prove without false alarms the portability of low-level C avionics software up to 1 million lines of C across platforms with opposite byte-orders (endianness).
+
+_Bio:_ David Delmas has been working as an avionics software engineer at Airbus since 2001. He specializes in methods and tools, with a strong focus on formal verification.
+He has contributed to the transfer of research prototypes into the development workshops of operational avionics software teams since 2007. These tools include the Astrée and Fluctuat static analyzers, and the Frama-C platform. They are currently used as part of the verification processes of safety-critical avionics software products.
+He completed a PhD thesis on the static analysis of program portability by abstract interpretation in 2022, as part of his work at Airbus.
+
+---
+
+Past talks:
+---
 
 _Presenter:_ Leo Freitas, ScubaTx, UK
 
@@ -69,12 +90,8 @@ _Abstract:_ Digital Twins (DTs) are a promising technology for integrating devic
 _Bio:_ Leo is a Senior Lecturer in Formal Methods and Tools and Newcastle University (UK) with 25 years experience in safety-critical systems development involving model based design, formal specification, model checking and theorem proving. He has applied these techniques to industrial scale in various areas like avionics (AeroEngines, Praxis) , transportation, payment systems (e.g. EMV, MasterCard, Mondex), cyber security and medical. For the last 10 years, Leo has worked on various embedded medical devices and is the Co-Founder and CIO of an organ preservation start-up (ScubaTx) since 2020. 
 
 
+
 ---
-
-Past talks:
----
-
-
 _Presenter:_ Daniel Fredholm, Prover Technology, Sweden
 
 _Date:_ 16 May, 15.00-16.00 (CEST)
