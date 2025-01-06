@@ -59,7 +59,9 @@ _Presenter:_ David Delmas, Airbus, Fr
 
 _Date:_ 16 January, 15.00-16.00 (CET)
 
-_Zoom:_ to be announced
+_Zoom:_ [https://mdu-se.zoom.us/j/68365524091](https://mdu-se.zoom.us/j/68365524091)
+
+Meeting ID: 683 6552 4091
 
 _Title:_ Formal Verification of Avionics Software
 
