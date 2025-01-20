@@ -53,15 +53,15 @@ The _InFM_ series, organised by the FME Industry Committee, is a series of talks
 The talks are aimed at people working in industry wishing to learn from others applying Formal Methods at industrial scale, but also academics interested in applying and improving their methods.
 
 ---
-Upcoming talk:
+
+Past talks:
 ---
+
 _Presenter:_ David Delmas, Airbus, Fr
 
 _Date:_ 16 January, 15.00-16.00 (CET)
 
-_Zoom:_ [https://mdu-se.zoom.us/j/68365524091](https://mdu-se.zoom.us/j/68365524091)
-
-Meeting ID: 683 6552 4091
+_Video:_ See the [recording](https://youtu.be/B2vwBu6sgaw) of the Zoom meeting.
 
 _Title:_ Formal Verification of Avionics Software
 
@@ -75,10 +75,6 @@ He has contributed to the transfer of research prototypes into the development w
 He completed a PhD thesis on the static analysis of program portability by abstract interpretation in 2022, as part of his work at Airbus.
 
 ---
-
-Past talks:
----
-
 _Presenter:_ Leo Freitas, ScubaTx, UK
 
 _Date:_ 3 October, 16.00-17.00 (CEST)
